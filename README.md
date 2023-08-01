@@ -6,6 +6,3 @@ Outcomes:
 
 ● Built a fully responsive web application which will help businesses to make their online presence.
 
-● Leant about web development coding conventions and semantic HTML tags.
-
-● Learnt about the importance of designing in web development. 
