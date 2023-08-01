@@ -6,4 +6,4 @@ Outcomes:
 
 ● Built a fully responsive web application which will help businesses to make their online presence.
 
-DEMO link [https://alyonasarapina.github.io/omnifood-landing-page/]
+[DEMO LINK](https://alyonasarapina.github.io/omnifood-landing-page/)
